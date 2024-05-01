@@ -11,7 +11,7 @@ Atsakymas:
 
 ![histograma](img/averagewage.png)
 
-Išvados:
+Išvados: Vidutinis atlyginimas įmonių kurių ekonominės veiklos kodas sutampa.
 
 ### 2.2 Užduotis
 
@@ -19,7 +19,7 @@ Atsakymas:
 
 ![atlyginimai](img/animated.png)
 
-Išvados:
+Išvados: Top penkių įmonių išmpkami atlyginimai yra metu pradzioje panašus tačiau antrojoje metu dalyje atlygimai labai svyruoja tiek aukštyn, tiek žemyn.
 
 
 ### 2.3 Užduotis
@@ -28,7 +28,7 @@ Atsakymas:
 
 ![apdraustieji](img/Apdraustieji.png)
 
-Išvados:
+Išvados: Apdraustuju darbuotoju skaičius top penkiose įmonėse labai smarkiai skiriasi, nors tos įmonės daugiausiai sumoka atlyginimų.
 
 
 ### 3. Užduotis
