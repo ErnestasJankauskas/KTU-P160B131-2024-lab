@@ -9,7 +9,7 @@
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/averagewage.png)
 
 Išvados:
 
